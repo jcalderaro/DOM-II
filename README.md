@@ -1,5 +1,5 @@
 # DOM II - Event Exploration
-test
+
 Fun Bus wants you to make their site more interactive. They are relying on you to provide 10 unique events to enhance their site. Explore the many events available to you by using the [MDN events reference](https://developer.mozilla.org/en-US/docs/Web/Events).
 
 ## Set Up The Project With Git
@@ -49,11 +49,3 @@ Using the 10 unique events, find ways to update the DOM in creative ways. For ex
 
 * [ ] Nest two similar events somewhere in the site and prevent the event propagation properly
 * [ ] Stop the navigation from items from refreshing the page by using `preventDefault()`
-
-## Stretch Task:
-
-* [ ] Go look at [GSAP](https://greensock.com/) and implement the animations found in that library with your custom events.
-
-## Stretch assignment
-
-* [ ] Take a look at the [stretch assignment](stretch-assignment) and follow the instructions in the read me file.
